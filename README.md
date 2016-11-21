@@ -2,7 +2,7 @@
 
 # ZURB Template
 
-[![devDependency Status](https://david-dm.org/zurb/foundation-zurb-template/dev-status.svg)](https://david-dm.org/zurb/foundation-zurb-template#info=devDependencies)
+[![devDependency Status](https://david-dm.org/img/logo-david@2x.png)](https://david-dm.org/zurb/foundation-zurb-template#info=devDependencies)
 
 **Please open all issues with this template on the main [Foundation for Sites](https://github.com/zurb/foundation-sites/issues) repo.**
 
